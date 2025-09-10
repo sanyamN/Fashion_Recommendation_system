@@ -1,4 +1,4 @@
-# Fashion Recommendation System
+# Fashinova - Fashion Recommendation System
 
 This project implements a Fashion Recommendation System that identifies and recommends visually similar images from a dataset. It utilizes deep learning and machine learning techniques for feature extraction and similarity computation.
 
